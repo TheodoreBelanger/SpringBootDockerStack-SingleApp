@@ -1,0 +1,1 @@
+# SpringBootDockerStack-SingleApp
